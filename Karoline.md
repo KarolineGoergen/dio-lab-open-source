@@ -2,8 +2,6 @@
 
 <h3 align="center">Contatos</h3>
 
-<br clear="both">
-
 <div align="center">
   <a href="mailto:goergenkarol@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="38" alt="gmail logo"  />
